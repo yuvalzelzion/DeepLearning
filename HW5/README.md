@@ -1,5 +1,5 @@
-# HW4 - Face Recognition Using Pytorch
-Algorithm that recognizes faces in a video.
+# HW5 - Coloring black & white images
+Algorithm that gets a black&white images and returns a colored version.
 
 The files:
 * Gal_Raykin_308188853_Yuval_Zelzion_305768871.zip:
@@ -8,7 +8,7 @@ The files:
   * A short movie showing the execution of the program.
 * faces_Trim_video_tracked.mp4:
   * Another example of the progam on a video we uploaded.
-* targil4.ipynb:
+* targil5.ipynb:
   * The code of our implementation. The code was written in Google Colab, so the file is ipynb file (Colab notebook).
-* targil4.pdf/.docx
+* targil5.pdf/.docx
   * The report of the exercise.
