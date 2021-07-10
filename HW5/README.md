@@ -1,4 +1,4 @@
-# HW4 - Coloring black & white images
+# HW5 - Coloring black & white images
 Algorithm that gets a black&white images and returns a colored version.
 
 The files:
